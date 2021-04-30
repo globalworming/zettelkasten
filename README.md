@@ -1,0 +1,1 @@
+So... it's quite impressive what people built with [obsidian](https://obsidian.md/). The sync between devices is a bit expensive, so let's try github for now. Though if I were to use it in projects, [headissue](https://www.headissue.com) could pay for it. 🤷 

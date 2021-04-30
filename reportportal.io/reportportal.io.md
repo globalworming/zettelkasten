@@ -1,0 +1,1 @@
+Needs more investigation. the serenity plugin does not seem to work. maybe it's based on the CucumberRunner and does not work with plain jUnit+Screenplay
